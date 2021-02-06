@@ -1,0 +1,153 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+#nav {
+    background-color: #afa656;
+}
+
+.navbar-brand {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700; 
+    font-size: 30px;
+}
+
+.navbar-nav {  
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400; 
+}
+
+h1{
+    font-weight: 700;
+    font-size: 90px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 200; 
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+
+#hrheader {
+    box-shadow: 2px 2px #000000;
+}
+
+.btn {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+header .btn {
+    box-shadow: 2px 2px #000000;
+    text-shadow: 1px 1px #000000;
+}
+
+#h1header, #h2header {
+    text-shadow: 2px 2px #000000;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; 
+    line-height : 35px;
+    text-align: center;
+}
+
+h4, h5 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; 
+    line-height : 35px;
+    text-align: center;
+}
+
+p   {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400; 
+    line-height : 35px;
+    text-align: justify;
+}
+
+
+
+header {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 70px;
+    background-image: url(../img/header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+header hr {
+    background-color: white;
+    width: 250px;
+    height: 1px;
+}
+
+.hrcontenido{
+    background-color: black;
+    width: 150px;
+    height: 1px;
+    border: 0;
+}
+
+#experiencia img {
+    width: 150px;
+    height: auto;
+}
+
+#formacion h1, #contacto h1, #experiencia h1 {
+    color: black;
+    text-align: center;
+    font-size: 70px;
+}
+
+#formacion i{
+    color: #afa656;
+}
+
+#trabajos, footer {
+    background-color: #afa656;
+}
+
+#trabajos h1{
+    color:white;
+    text-align: center;
+    font-size: 70px;
+}
+
+.card-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.carousel-indicators li {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+footer {
+    color:white;
+    text-align: center;
+}
+
+footer h1 {
+    font-size: 70px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #5f591f;
+}
